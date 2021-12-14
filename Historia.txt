@@ -1,4 +1,4 @@
-Test de que aprendi.
+Test de que aprendi y creo conflictos.
 
 Segunda version a implementar.
 
