@@ -1,5 +1,5 @@
 # Hyperblog
-Este es un proyecto para aprender Git
+Este es un proyecto de entrenamiento
 
 ## Prueba de subtitulo
 - Prueba de viñetas
